@@ -1,4 +1,6 @@
-* Intro
+# Intro
+
+===============
 
 This is tutorial project to practice typescript with Node js.
 
